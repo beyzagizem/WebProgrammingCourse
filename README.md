@@ -1,2 +1,2 @@
-# WebProgranningCourse
+# WebProgrammingCourse
 WebProgrammingHw_1
